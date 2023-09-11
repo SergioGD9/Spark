@@ -1,0 +1,1 @@
+# Spark aquí muestro el proyecto que tuve que crear con Spark y Python en el que se muestra los datos de los empleados de una empresa, si hay más cargos masculinos que femeninos, si son fumadores, la edad, etc.
